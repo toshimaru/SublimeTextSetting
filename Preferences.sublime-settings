@@ -1,10 +1,11 @@
 {
 	"font_size": 12,
+	"tab_size": 2,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"highlight_line": true,
-	"tab_size": 2,
+	"draw_white_space": "all",
 	"translate_tabs_to_spaces": true
 }
